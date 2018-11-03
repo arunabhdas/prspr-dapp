@@ -2,7 +2,7 @@
 
  _______________________________________________________________________________________________________________
  
- Screenshots
+Screenshots
 -----------
 
 ![alt text](https://github.com/arunabhdas/prspr-dapp/blob/master/screenshots/screenshot_1.png "Screnshot 1")
